@@ -1,0 +1,16 @@
+- links:
+  - name: 關於納維
+    link: /about/
+  - name: 技術
+    link: /technology/
+  - name: 服務項目
+    link: /services/
+  - name: 最新資訊
+    link: /blog/
+  - name: 聯絡我們
+    link: /contact/
+- links:
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false

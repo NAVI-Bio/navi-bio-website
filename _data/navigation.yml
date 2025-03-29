@@ -6,6 +6,14 @@
   link: /technology/
   new_window: false
   highlight: false
+- name: 設備
+  link: /facilities/
+  new_window: false
+  highlight: false
+- name: 專利
+  link: /patents/
+  new_window: false
+  highlight: false
 - name: 服務項目
   link: /services/
   new_window: false

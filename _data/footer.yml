@@ -3,10 +3,17 @@
     link: /about/
   - name: 技術
     link: /technology/
+  - name: 設備
+    link: /facilities/
+  - name: 專利
+    link: /patents/
+- links:
   - name: 服務項目
     link: /services/
-  - name: 最新資訊
-    link: /blog/
+  - name: 合作單位
+    link: /collab/
+  # - name: 最新資訊
+  #   link: /blog/
   - name: 聯絡我們
     link: /contact/
 - links:

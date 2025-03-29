@@ -18,10 +18,10 @@
   link: /services/
   new_window: false
   highlight: false
-- name: 最新資訊
-  link: /blog/
-  new_window: false
-  highlight: false
+# - name: 最新資訊
+#   link: /blog/
+#   new_window: false
+#   highlight: false
 - name: 聯絡我們
   link: /contact/
   new_window: false

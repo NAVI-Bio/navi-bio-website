@@ -8,7 +8,6 @@
 	max-width: 750px;
 
 	li {
-		font-size: 1.1em;
 		color: #666;
 		margin-bottom: 5px;
 		font-weight: 300;
@@ -18,6 +17,12 @@
 
 .container {
 	max-width: 1140px;
+
+	img {
+		display: block;
+		margin: auto;
+		max-width: 100%;
+	}
 
 	&.max-container {
 		max-width: 100%;

@@ -56,11 +56,23 @@ defaults:
     values:
       layout: "page"
   - scope:
+      path: "en"
+    values:
+      layout: "page"
+  - scope:
       path: "index.html"
     values:
       layout: "default"
   - scope:
+      path: "en/index.html"
+    values:
+      layout: "default"
+  - scope:
       path: "contact.html"
+    values:
+      full_width: true
+  - scope:
+      path: "en/contact.html"
     values:
       full_width: true
 

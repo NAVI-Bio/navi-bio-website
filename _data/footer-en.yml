@@ -1,0 +1,23 @@
+- links:
+  - name: About us
+    link: /en/about/
+  - name: Technology
+    link: /en/technology/
+  - name: Facilities
+    link: /en/facilities/
+  - name: Patents
+    link: /en/patents/
+- links:
+  - name: Services
+    link: /en/services/
+  - name: Partners
+    link: /en/collab/
+  # - name: 最新資訊
+  #   link: /blog/
+  - name: Contact us
+    link: /en/contact/
+- links:
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false

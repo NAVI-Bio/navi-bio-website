@@ -1,36 +1,36 @@
-- name: 關於納維
-  link: /about/
+- name: About us
+  link: /en/about/
   new_window: false
   highlight: false
-- name: 技術
-  link: /technology/
+- name: Technology
+  link: /en/technology/
   new_window: false
   highlight: false
-- name: 設備
-  link: /facilities/
+- name: Facilities
+  link: /en/facilities/
   new_window: false
   highlight: false
-- name: 專利
-  link: /patents/
+- name: Patents
+  link: /en/patents/
   new_window: false
   highlight: false
-- name: 服務項目
-  link: /services/
+- name: Services
+  link: /en/services/
   new_window: false
   highlight: false
-- name: 合作單位
-  link: /collab/
+- name: Partners
+  link: /en/collab/
   new_window: false
   highlight: false
-- name: EN
-  link: /en/
+- name: 中文
+  link: "/"
   new_window: false
   highlight: false
 # - name: 最新資訊
 #   link: /blog/
 #   new_window: false
 #   highlight: false
-- name: 聯絡我們
-  link: /contact/
+- name: Contact us
+  link: /en/contact/
   new_window: false
   highlight: true

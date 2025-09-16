@@ -19,12 +19,20 @@
 			</script>
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
 		{% endif %}
-		<link href="../timeline/dist/css/timeline.min.css" rel="stylesheet" />
+		{% if page.lang == "en" %}
+			<link href="../../../timeline/dist/css/timeline.min.css" rel="stylesheet" />
+		{% else %}
+			<link href="../timeline/dist/css/timeline.min.css" rel="stylesheet" />
+		{% endif %}
 	</head>
 	<body>
 		<header>
 			<div class="container">
-				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Hydra Logo" width="95" height="33" /></a></div>
+				{% if page.lang == "en" %}
+					<div class="company-name"><a href="{{ site.baseurl }}/en"><img src="{{ site.baseurl }}/images/logo.svg" alt="Hydra Logo" width="95" height="33" /></a></div>
+				{% else %}
+					<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Hydra Logo" width="95" height="33" /></a></div>
+				{% endif %}
 				{% include navigation.html %}
 			</div>
 		</header>

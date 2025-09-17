@@ -1,7 +1,7 @@
 ---
 title: About us
 description: >-
-  NAVI BIO-THERAPEUTICS is a company developing personalized cell-based immunotherapeutics for the prevention and treatment of cancer, autoimmune, allergic and infectious disease.  
+  NAVI BIO-THERAPEUTICS is a company developing personalized cell-based immunotherapy for the prevention and treatment of cancer, autoimmune, allergic and infectious disease.  
 lang: en
 ---
 
